@@ -1,24 +1,7 @@
-# README
+## kakeibo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 書籍：基礎から学ぶ Ruby on Rails: １週間の短期間講座！楽しく学ぶRailsの新しい入門書
 
-Things you may want to cover:
+### 学習期間
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+2022年3月28日〜3月29日
